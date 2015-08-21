@@ -1,0 +1,2 @@
+well number,strain,logistic R^2,logistic doubling time [min],logistic max growth rate [per hr],logistic carrying capacity,logistic growth infleciton time [hr],gompertz R^2,gompertz max growth rate,gompertz carrying capacity,gompertz lag time [hr]
+1,actual,9.978296e-01,612.7201523,1.3810569,81.3873717,50.8029626,0.9999003,1.3134715,87.9643031,18.8010567,
